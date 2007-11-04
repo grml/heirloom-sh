@@ -1,0 +1,19 @@
+Source: heirloom-sh
+Section: shells
+Priority: optional
+Maintainer: Michael Prokop <mika@grml.org>
+Build-Depends: debhelper (>= 4.0.0)
+Standards-Version: 3.7.2
+Homepage: http://heirloom.sourceforge.net/sh.html
+Vcs-hg: http://hg.grml.org/heirloom-sh/
+Vcs-Browser: http://hg.grml.org/heirloom-sh/
+
+Package: heirloom-sh
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Heirloom Bourne Shell - derived from OpenSolaris code
+ The Heirloom Bourne Shell is a portable variant of the
+ traditional Unix shell. It has been derived from OpenSolaris
+ code and thus implements the SVR4/SVID3 level of the shell.
+ .
+  Homepage: http://heirloom.sourceforge.net/sh.html

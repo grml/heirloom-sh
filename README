@@ -1,0 +1,32 @@
+README file for the Heirloom Bourne Shell
+=========================================
+
+This is a portable version of the OpenSolaris Bourne Shell. It is known
+to compile on:
+
+Linux           glibc 2.2 and above, diet libc
+Solaris         9 and above
+Open UNIX       8.0.0
+HP-UX           B.11.11 and above
+AIX             5.1
+Tru64 Unix      5.1
+FreeBSD         5.4
+NetBSD          2.0
+
+To build and install, see the settings in the "makefile" and adjust
+them if necessary. You can also build a RPM package with the command
+"rpmbuild -tb heirloom-sh-<version>.tar.bz2".
+
+New releases of this project are announced on Freshmeat. If you want to
+get notified by email on each release, use their subscription service at
+<http://freshmeat.net/projects/bournesh/>.
+
+The project homepage is currently at <http://heirloom.sourceforge.net>.
+
+Report bugs to
+
+Gunnar Ritter
+Freiburg i. Br.
+Germany
+<http://heirloom.sourceforge.net>
+<Gunnar.Ritter@pluto.uni-freiburg.de>                           7/2/05

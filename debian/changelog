@@ -1,0 +1,20 @@
+heirloom-sh (050706-2) unstable; urgency=low
+
+  * Bump Standard-Version to 3.7.2 (no further changes).
+  * Add Homepage and VCS* headers to debian/control.
+  * Small cleanup of debian/rules.
+
+ -- Michael Prokop <mika@grml.org>  Sun, 04 Nov 2007 19:19:17 +0100
+
+heirloom-sh (050706-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Michael Prokop <mika@grml.org>  Sat, 15 Oct 2005 15:41:50 +0200
+
+heirloom-sh (050621-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Michael Prokop <mika@grml.org>  Sun, 26 Jun 2005 12:59:57 +0200
+
